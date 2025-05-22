@@ -19,7 +19,7 @@ sudo apt install swig python3-dev ruby-dev libperl-dev
 
 From the git tree:
 ```Shell
-sudo apt instaoo build-essential git yaggo autoconf automake libtool gettext
+sudo apt install build-essential git yaggo autoconf automake libtool gettext
 # For the bindings to scripting, additionally install
 sudo apt install swig python3-dev ruby-dev libperl-dev
 ```
