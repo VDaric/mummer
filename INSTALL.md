@@ -60,7 +60,7 @@ make install
 ```
 
 If `--prefix` is omitted, the software is installed in `/usr/local`.
-One may need `sudo make install` if installing in a system location.
+One may need `sudo make install` followed by `sudo ldconfig` if installing in a system location.
 
 ### On MacOS
 
